@@ -1,5 +1,5 @@
 """
-Set thumbnail to a 3D View.
+Set thumbnail of a file to a specific 3D View.
 """
 
 from rpw import revit, db, ui, DB, UI, doc, uidoc
