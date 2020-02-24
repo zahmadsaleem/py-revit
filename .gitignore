@@ -1,14 +1,12 @@
-
 # pyIndia Stuff
 _DEBUG_*
 WIP_*/
-
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
+.vscode/
 # C extensions
 *.so
 
@@ -108,3 +106,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.vscode/settings.json
